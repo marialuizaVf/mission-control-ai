@@ -1,5 +1,5 @@
-nome_missao = "Sem"
-equipe = "Sem"
+nome_missao = "OrbitalMind"
+equipe = "OrbitalMind"
 
 areas_monitoradas = [
     "Temperatura interna",
